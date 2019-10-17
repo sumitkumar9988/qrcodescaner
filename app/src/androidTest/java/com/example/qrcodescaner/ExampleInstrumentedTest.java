@@ -3,6 +3,7 @@ package com.example.qrcodescaner;
 import android.content.Context;
 
 import androidx.test.platform.app.InstrumentationRegistry;
+import androidx.test.runner.AndroidJUnit4;
 
 
 import org.junit.Test;
